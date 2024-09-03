@@ -1,6 +1,4 @@
 
-Certainly! Here's a professional and engaging GitHub profile README for you:
-
 Rajdeep Jaiswal
 🔹 Location: Varanasi, India
 🔹 Email: rajdeepjaiswal25nov@gmail.com
